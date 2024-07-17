@@ -1,4 +1,4 @@
-#in clg project 
+#in clg project in 5th sem with sachin sir
 # Importing libraries -- used for shuffling cards
 import random
 
